@@ -28,3 +28,9 @@ This is a REST API task implemented in Node.js using the Express web framework w
     - **tasks.ts:** Model for task data.
   - **utils/**
     - **helpers.ts:** Utility functions used throughout the application.
+
+### Start the application
+
+- Development (with Nodemon for automatic restarts): **npm run dev**
+- Build TypeScript files (optional): **npm run build**
+- Production: **npm start**
